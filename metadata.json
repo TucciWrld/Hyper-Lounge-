@@ -1,0 +1,6 @@
+{
+  "name": "Hyper Lounge 18+",
+  "description": "A luxury, premium adult digital lounge featuring TikTok-style short videos, Instagram-style photo and story streams, WhatsApp-style private messaging, and a highly polished interactive neon map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
